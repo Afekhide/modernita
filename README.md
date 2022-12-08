@@ -1,0 +1,1 @@
+This project is meant to be an implementation of [this Behance design](https://www.behance.net/gallery/98180195/All-for-your-home-Online-Store-E-commerce). 
