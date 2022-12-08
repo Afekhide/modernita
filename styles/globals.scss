@@ -1,0 +1,9 @@
+
+@use './vars.scss' as vars;
+
+*{
+    margin: 0;
+    padding: 0;
+    color: vars.$primary-color;
+    font-family: vars.$font-primary, sans-serif;
+}

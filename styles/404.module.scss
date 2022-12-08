@@ -1,0 +1,7 @@
+@use './vars.scss' as vars;
+
+.wrapper{
+    @include vars.screen-sm{
+        margin: 0rem clamp(2rem, 10vw, 10rem);
+    }
+}

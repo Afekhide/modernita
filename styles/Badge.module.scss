@@ -1,0 +1,27 @@
+@use './vars.scss' as vars;
+
+.badge{
+    cursor: pointer;
+    position: relative;
+    width: fit-content;
+
+    img{
+        width: 1.2rem;
+        height: auto;
+    }
+}
+
+
+.badge .value{
+    transform: translate(80%, -70%);
+    display: flex;
+    position: absolute;
+    padding: 0.2rem 0.4rem;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.7rem;
+    font-family: vars.$font-medium;
+    border-radius: 50%;
+    background-color: #f13030;
+}

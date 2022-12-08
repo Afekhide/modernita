@@ -1,0 +1,38 @@
+@use './vars.scss' as vars;
+
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: clamp(1rem, 2vh, 3rem) 0;
+    margin: 0 clamp(1rem, 5vw, 5rem);
+}
+
+.menuSection{
+    gap: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.links{
+    gap: 0.6rem;
+    display: none;
+
+    @include vars.screen-md{
+        display: flex;
+    }
+}
+
+.links a{
+    text-decoration: none;
+    &:nth-child(1){
+        font-family: vars.$font-medium;
+    }
+}
+
+.menuIcon{
+    width: 1rem;
+    height: auto;
+}

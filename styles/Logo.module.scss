@@ -1,0 +1,15 @@
+@use './vars.scss' as vars;
+
+.logoWrapper{
+    color: darken(vars.$primary-color, $amount: 40%);
+    font-family: vars.$font-demi, sans-serif;
+    font-weight: bold;
+    font-size: 1.2rem;
+    width: fit-content;
+
+    sub{
+        color: rgb(224, 24, 208);
+        font-style: italic;
+        font-family: vars.$font-primary, sans-serif;
+    }
+}

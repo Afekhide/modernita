@@ -1,0 +1,19 @@
+<svg id="check" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(255,255,255,0.01);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #3a3a3a;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-1" width="48" height="48"/>
+  <path id="Path_1" data-name="Path 1" class="cls-2" d="M43,11,16.875,37,5,25.182"/>
+</svg>

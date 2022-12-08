@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="51" height="51" viewBox="0 0 51 51">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3a3a3a;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="cart" transform="translate(-0.375)">
+    <path id="Path_5" data-name="Path 5" class="cls-1" d="M42.428,17.226a1.447,1.447,0,0,0-1.163-.63H32.083V9.4c0-2.981-2.056-5.4-4.591-5.4H18.31c-2.536,0-4.591,2.417-4.591,5.4v7.2H4.536a1.442,1.442,0,0,0-1.172.619,2.024,2.024,0,0,0-.358,1.451L5.883,40.528a3.257,3.257,0,0,0,3.061,3.059H36.889a3.257,3.257,0,0,0,3.061-3.059L42.8,18.665A2.02,2.02,0,0,0,42.428,17.226ZM16.779,9.4a1.681,1.681,0,0,1,1.53-1.8h9.182a1.681,1.681,0,0,1,1.53,1.8v7.2H16.779Zm20.109,30.59H8.913L6.327,20.195H39.475Z" transform="translate(2.468 3.198)"/>
+    <rect id="_Transparent_Rectangle_" data-name="&lt;Transparent Rectangle&gt;" class="cls-2" width="51" height="51" transform="translate(0.375)"/>
+  </g>
+</svg>

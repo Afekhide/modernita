@@ -1,0 +1,53 @@
+//Colors
+$primary-color: #3A3A3A;
+$secondary-color: #BABABA;
+
+//Font Families
+$font-primary: 'Futura PT Book';
+$font-demi: 'Futura PT Demi';
+$font-medium: 'Futura PT Medium';
+
+//Breakpoints
+$breakpoint-xs: 360px;
+$breakpoint-sm: 640px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 1024px;
+$breakpoint-xl: 1280px;
+
+//Screen  Adaptations
+
+@mixin screen-xl {
+    @media screen and (min-width: $breakpoint-xl) {
+        @content;
+    }
+}
+
+@mixin lg {
+    @media screen and (min-width: $breakpoint-lg) {
+        @content;
+    }
+}
+
+@mixin screen-md {
+    @media screen and (min-width: $breakpoint-md) {
+        @content;
+    }
+}
+
+@mixin screen-sm {
+    @media screen and (min-width: $breakpoint-sm) {
+        @content;
+    }
+}
+
+
+//State Mixins
+@mixin active{
+    &:is(:hover, :active){
+        @content;
+    }
+}
+
+@mixin block-element{
+    margin: 0 clamp(1rem, 10vw, 12rem);
+}

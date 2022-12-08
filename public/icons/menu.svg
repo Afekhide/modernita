@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="27" viewBox="0 0 45 27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3a3a3a;
+      }
+    </style>
+  </defs>
+  <g id="menu" transform="translate(-1173 -197)">
+    <rect id="Rectangle_5" data-name="Rectangle 5" class="cls-1" width="45" height="5" transform="translate(1173 197)"/>
+    <rect id="Rectangle_5-2" data-name="Rectangle 5" class="cls-1" width="45" height="5" transform="translate(1173 208)"/>
+    <rect id="Rectangle_5-3" data-name="Rectangle 5" class="cls-1" width="45" height="4" transform="translate(1173 220)"/>
+  </g>
+</svg>

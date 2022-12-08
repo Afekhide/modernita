@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94" height="55" viewBox="0 0 94 55">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3a3a3a;
+      }
+
+      .cls-2 {
+        fill: #bababa;
+      }
+    </style>
+  </defs>
+  <g id="mastercard" transform="translate(-1353 -526)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-1" cx="27.5" cy="27.5" r="27.5" transform="translate(1353 526)"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" class="cls-2" cx="27.5" cy="27.5" r="27.5" transform="translate(1392 526)"/>
+  </g>
+</svg>
